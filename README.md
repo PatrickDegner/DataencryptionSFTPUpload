@@ -12,7 +12,7 @@ Create your Key for the symmetric encryption
 <br />
 <br />
 
-Ive used this nice .jpg but you can your csv,txt,json whatever you want.
+Ive used this nice .jpg but you can use your csv,txt,json whatever you want.
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/108484798/178459852-f2f2c5a0-674b-4e63-a64c-e237f5100b98.png)
