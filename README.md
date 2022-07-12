@@ -4,15 +4,16 @@ Tool to encrypt/decrypt files with or without SFTP upload
 
 # Usage
 
-Create your Key for the symmetric encryption
+Create your Key for the symmetric encryption.
 <br />
+Functions found in app.py
 <br />
 
 ![image](https://user-images.githubusercontent.com/108484798/178458922-018e05b5-460e-4bbe-a16f-c70b6365cdd8.png)
 <br />
 <br />
 
-Ive used this nice .jpg but you can use your csv,txt,json whatever you want.
+Ive used this nice .jpg but you can use your csv,txt,json,xlsx whatever you want.
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/108484798/178459852-f2f2c5a0-674b-4e63-a64c-e237f5100b98.png)
@@ -42,6 +43,8 @@ While Function decryption_from_sftp() will use the downloaded (download_file()) 
 <br />
 ![image](https://user-images.githubusercontent.com/108484798/178462916-5fd351ca-7f70-4b9a-bac5-6c8609632f72.png)
 <br />
+<br />
+Need more information about the code? Ive commented most of it for you!
 <br />
 Have fun!
 
